@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../crm-backend"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mini-crm"
+	}
+}
